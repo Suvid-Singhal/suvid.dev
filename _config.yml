@@ -5,7 +5,7 @@
 # Site
 title: Suvid Singhal
 subtitle: ''
-description: "🏛️ Junior at BITS Pilani\n💻️ Tech Enthusiast\n📒 The blog serves as my personal corner on the web — tech, thoughts, and everything in between!\n[My Resume]( /files/resume.pdf )"
+description: "🏛️ Junior at BITS Pilani\n💻️ Tech Enthusiast\n📒 The blog serves as my personal corner on the web — tech, thoughts, and everything in between!\n[My Resume](/files/resume.pdf)"
 keywords:
 author: Suvid Singhal
 language: en
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
